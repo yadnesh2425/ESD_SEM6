@@ -1,4 +1,4 @@
-api_url = "https://esdnode.herokuapp.com/user";
+api_url = "https://esd-6.herokuapp.com/user";
 
 function loadData(records = []) {
   console.log(records);
